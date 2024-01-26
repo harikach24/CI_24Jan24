@@ -1,0 +1,3 @@
+black #only for formatting adjusting spaces, etc
+pylint #check for code quality
+pytest #only works with files names having 'test' and test_method name
